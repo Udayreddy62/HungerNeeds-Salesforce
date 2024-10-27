@@ -1,1 +1,2 @@
 # HungerNeeds-Salesforce
+The **Leftover Food Donation Tracker** project aims to streamline the process of collecting and distributing leftover food to those in need. As food waste remains a significant global issue, this application serves to connect donors—such as restaurants and grocery stores—with recipients, including local food banks and shelters. By using Salesforce's powerful features, the application will improve operational efficiency, enhance communication, and increase the impact of food donation efforts.
